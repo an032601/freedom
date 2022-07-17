@@ -186,6 +186,7 @@ payload:
   - DOMAIN-SUFFIX,zyxel.com
   - DOMAIN-SUFFIX,v2fly.org
   - DOMAIN-SUFFIX,merlinblog.xyz
+  - DOMAIN-SUFFIX,justmysocks.net
   - DOMAIN,lab.skk.moe
   - DOMAIN,ocsp.int-x3.letsencrypt.org
   # > Akamai
